@@ -32,7 +32,7 @@ public class PerfectNumber {
             }
         }
 
-        if(count > 1) {
+        if(count > 1 && count ==number) {
             System.out.println(count);
         }
 
